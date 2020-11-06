@@ -1,3 +1,4 @@
+Mid-term project
 This is my first project. This is very simple calculator.
 
 
